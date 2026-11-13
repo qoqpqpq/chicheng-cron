@@ -19,9 +19,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/534119219/chicheng-cron.git"
+    "url": "git+https://github.com/qoqpqpq/chicheng-cron.git"
   },
-  "homepage": "https://github.com/534119219/chicheng-cron",
+  "homepage": "https://github.com/qoqpqpq/chicheng-cron",
   "dsh": {
     "bundle": {
       "patch": "./cordis.patch.yml"
